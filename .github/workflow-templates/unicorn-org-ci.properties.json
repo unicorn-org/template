@@ -1,0 +1,13 @@
+{
+    "name": "Unicorn Org Workflow",
+    "description": "Unicorn Org CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
